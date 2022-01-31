@@ -1,1 +1,1 @@
-Реализовано 2 алгоритма: Vigenère Cipher и RSA
+На языке Python реализовано 2 алгоритма: Vigenère Cipher и RSA
